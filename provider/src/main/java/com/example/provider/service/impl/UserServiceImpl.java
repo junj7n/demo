@@ -1,7 +1,7 @@
 package com.example.provider.service.impl;
 
 import com.alibaba.dubbo.config.annotation.Service;
-import entity.User;
+import com.example.entity.User;
 import com.example.service.UserService;
 
 @Service(version = "1.0.0")
